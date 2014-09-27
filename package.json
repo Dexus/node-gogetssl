@@ -1,0 +1,22 @@
+{
+  "name": "gogetssl",
+  "description": "An API Client for GoGetSSL built on Node.js.",
+  "version": "0.1.2",
+  "main": "./gogetssl_api.js",
+  "maintainers": [
+    {
+      "name": "Josef Fröhle",
+      "web": "https://github.com/Dexus"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dexus/node-gogetssl"
+  },
+  "bugs": {
+    "url": "http://github.com/Dexus/node-gogetssl/issues"
+  },
+  "dependencies": {
+    "request": "~2.9.203"
+  }
+}
