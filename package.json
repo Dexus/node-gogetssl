@@ -17,6 +17,6 @@
     "url": "http://github.com/Dexus/node-gogetssl/issues"
   },
   "dependencies": {
-    "request": "~2.9.203"
+    "request": "~2.79.0"
   }
 }
